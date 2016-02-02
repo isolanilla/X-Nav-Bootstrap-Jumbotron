@@ -1,3 +1,4 @@
+git branch gh-pages //para crear la nueva rama
 git add nombre-fichero
 git commit -m "comentario y tal"
 git push origin gh-pages
