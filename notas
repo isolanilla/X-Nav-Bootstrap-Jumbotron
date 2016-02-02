@@ -1,3 +1,5 @@
+git checkout "rama" // para cambiar a la rama
+git status // te dice la rama
 git branch gh-pages //para crear la nueva rama
 git add nombre-fichero
 git commit -m "comentario y tal"
