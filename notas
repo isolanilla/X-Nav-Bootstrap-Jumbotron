@@ -1,0 +1,5 @@
+git add nombre-fichero
+git commit -m "comentario y tal"
+git push origin gh-pages
+Para verlo:
+http//|login|.github.io/|repositorio|/
